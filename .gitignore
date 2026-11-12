@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Secrets - never commit these
+.env
+.env.*
+*.pem
+*.key
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
