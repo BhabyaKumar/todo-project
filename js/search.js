@@ -2,7 +2,7 @@
 
 let searchText = '';
 
-// 1. Add a search box above the task list.
+// 1. Add a search box above the.
 const searchBox = document.createElement('input');
 searchBox.type = 'search';
 searchBox.className = 'search-input';
