@@ -13,7 +13,7 @@ document.getElementById('toolbar').insertAdjacentHTML('beforeend',
 
 const filterButtons = document.querySelectorAll('.filter-btn');
 
-// 2. When a button is clicked, remember the choice and redraw the list.
+//  button is clicked, remember the choice and redraw the list.
 filterButtons.forEach(function (button) {
   button.addEventListener('click', function () {
     filterStatus = button.dataset.status;
