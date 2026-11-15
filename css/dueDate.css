@@ -1,0 +1,15 @@
+/* Due date styles - Member 1 (feature-member1) */
+.due {
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.due.today {
+  color: #d97706;
+  font-weight: 600;
+}
+
+.due.overdue {
+  color: var(--danger);
+  font-weight: 600;
+}
