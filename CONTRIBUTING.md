@@ -20,7 +20,7 @@ This document records how the two team members worked together on the **To-Do Li
 | `1763832` | added Due Date Feature in Feature branch |
 | `003db33` | Making it look cool. |
 
-### Nandani Gupta | Roll No: 22 ([@Nandini-Gupta3101](https://github.com/Nandini-Gupta3101)), Student 2
+### Nandani Gupta | Roll No: 40 ([@Nandini-Gupta3101](https://github.com/Nandini-Gupta3101)), Student 2
 
 - Accepted the collaborator invitation and cloned the repository.
 - Built the **search** feature and the **filter** feature.
