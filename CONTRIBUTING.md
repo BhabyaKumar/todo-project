@@ -63,19 +63,12 @@ This document records how the two team members worked together on the **To-Do Li
 3. The partner reviews the changes.
 4. Fix any review comments, then merge.
 
-## Code Reviews
 
-| PR | Reviewer | Summary of feedback |
-|---|---|---|
-| #1 | [reviewer] | [what was said] |
-| #2 | [reviewer] | [what was said] |
-| #3 | [reviewer] | [what was said] |
-| #4 | [reviewer] | [what was said] |
-
-> [Fill in only the reviews that actually exist on GitHub. Do not invent feedback.]
 
 ## Merge Conflict Resolution
 
 A conflict occurred in PR #4 (`feature-Colourfull`) because both members changed the same part of the styling.
+
+Which is resolved later.
 
 
