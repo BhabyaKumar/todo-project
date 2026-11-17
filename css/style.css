@@ -81,9 +81,8 @@ select {
 
 input:focus,
 select:focus {
-  outline: none;
-  border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-soft);
+  outline: 2px solid #fb923c;
+  border-color: #ea580c;
 }
 
 #task-input {
