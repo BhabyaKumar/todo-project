@@ -105,6 +105,36 @@ todo-project/
 
 ## Screenshots
 
+### TaskFlow Dashboard
+
+The main task list, including task creation, due dates and status filters.
+
+![TaskFlow dashboard](screenshots/dashboard.png)
+
+### Search Tasks
+
+Search for a task by its title.
+
+![TaskFlow search](screenshots/search.png)
+
+### Due Dates and Active Tasks
+
+Set a due date and view active tasks.
+
+![TaskFlow due-date feature](screenshots/due-date.png)
+
+### Dark Mode
+
+Switch the interface to the dark theme.
+
+![TaskFlow dark mode](screenshots/dark-mode.png)
+
+### Completed Tasks
+
+View tasks that have been marked as completed.
+
+![TaskFlow completed tasks](screenshots/completed-tasks.png)
+
 ## Git Workflow Summary
 
 | Item             | Details                                                                                     |
